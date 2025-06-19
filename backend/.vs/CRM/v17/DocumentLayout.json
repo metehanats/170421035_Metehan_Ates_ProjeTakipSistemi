@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Calismalar\\Bitirme Projesi\\Proje\\CRM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F03EBD3D-3F04-4814-B729-530363DFD210}|CRM.API\\CRM.API.csproj|d:\\calismalar\\bitirme projesi\\proje\\crm\\crm.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F03EBD3D-3F04-4814-B729-530363DFD210}|CRM.API\\CRM.API.csproj|solutionrelative:crm.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F03EBD3D-3F04-4814-B729-530363DFD210}|CRM.API\\CRM.API.csproj|d:\\calismalar\\bitirme projesi\\proje\\crm\\crm.api\\models\\efcore\\smtpconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F03EBD3D-3F04-4814-B729-530363DFD210}|CRM.API\\CRM.API.csproj|solutionrelative:crm.api\\models\\efcore\\smtpconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F03EBD3D-3F04-4814-B729-530363DFD210}|CRM.API\\CRM.API.csproj|d:\\calismalar\\bitirme projesi\\proje\\crm\\crm.api\\controllers\\attachmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F03EBD3D-3F04-4814-B729-530363DFD210}|CRM.API\\CRM.API.csproj|solutionrelative:crm.api\\controllers\\attachmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F03EBD3D-3F04-4814-B729-530363DFD210}|CRM.API\\CRM.API.csproj|d:\\calismalar\\bitirme projesi\\proje\\crm\\crm.api\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F03EBD3D-3F04-4814-B729-530363DFD210}|CRM.API\\CRM.API.csproj|solutionrelative:crm.api\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F03EBD3D-3F04-4814-B729-530363DFD210}|CRM.API\\CRM.API.csproj|d:\\calismalar\\bitirme projesi\\proje\\crm\\crm.api\\controllers\\customfieldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F03EBD3D-3F04-4814-B729-530363DFD210}|CRM.API\\CRM.API.csproj|solutionrelative:crm.api\\controllers\\customfieldcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F03EBD3D-3F04-4814-B729-530363DFD210}|CRM.API\\CRM.API.csproj|d:\\calismalar\\bitirme projesi\\proje\\crm\\crm.api\\controllers\\workflowcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F03EBD3D-3F04-4814-B729-530363DFD210}|CRM.API\\CRM.API.csproj|solutionrelative:crm.api\\controllers\\workflowcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F03EBD3D-3F04-4814-B729-530363DFD210}|CRM.API\\CRM.API.csproj|d:\\calismalar\\bitirme projesi\\proje\\crm\\crm.api\\functions\\datetimeconverteriso8601.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F03EBD3D-3F04-4814-B729-530363DFD210}|CRM.API\\CRM.API.csproj|solutionrelative:crm.api\\functions\\datetimeconverteriso8601.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F03EBD3D-3F04-4814-B729-530363DFD210}|CRM.API\\CRM.API.csproj|d:\\calismalar\\bitirme projesi\\proje\\crm\\crm.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F03EBD3D-3F04-4814-B729-530363DFD210}|CRM.API\\CRM.API.csproj|solutionrelative:crm.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F03EBD3D-3F04-4814-B729-530363DFD210}|CRM.API\\CRM.API.csproj|d:\\calismalar\\bitirme projesi\\proje\\crm\\crm.api\\controllers\\issuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F03EBD3D-3F04-4814-B729-530363DFD210}|CRM.API\\CRM.API.csproj|solutionrelative:crm.api\\controllers\\issuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F03EBD3D-3F04-4814-B729-530363DFD210}|CRM.API\\CRM.API.csproj|d:\\calismalar\\bitirme projesi\\proje\\crm\\crm.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F03EBD3D-3F04-4814-B729-530363DFD210}|CRM.API\\CRM.API.csproj|solutionrelative:crm.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 256,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Calismalar\\Bitirme Projesi\\Proje\\CRM\\CRM.API\\Program.cs",
+              "RelativeDocumentMoniker": "CRM.API\\Program.cs",
+              "ToolTip": "D:\\Calismalar\\Bitirme Projesi\\Proje\\CRM\\CRM.API\\Program.cs",
+              "RelativeToolTip": "CRM.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T00:34:38.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DateTimeConverterISO8601.cs",
+              "DocumentMoniker": "D:\\Calismalar\\Bitirme Projesi\\Proje\\CRM\\CRM.API\\Functions\\DateTimeConverterISO8601.cs",
+              "RelativeDocumentMoniker": "CRM.API\\Functions\\DateTimeConverterISO8601.cs",
+              "ToolTip": "D:\\Calismalar\\Bitirme Projesi\\Proje\\CRM\\CRM.API\\Functions\\DateTimeConverterISO8601.cs",
+              "RelativeToolTip": "CRM.API\\Functions\\DateTimeConverterISO8601.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T00:34:18.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WorkflowController.cs",
+              "DocumentMoniker": "D:\\Calismalar\\Bitirme Projesi\\Proje\\CRM\\CRM.API\\Controllers\\WorkflowController.cs",
+              "RelativeDocumentMoniker": "CRM.API\\Controllers\\WorkflowController.cs",
+              "ToolTip": "D:\\Calismalar\\Bitirme Projesi\\Proje\\CRM\\CRM.API\\Controllers\\WorkflowController.cs",
+              "RelativeToolTip": "CRM.API\\Controllers\\WorkflowController.cs",
+              "ViewState": "AgIAAJYBAAAAAAAAAAAAABQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T20:16:01.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IssueController.cs",
+              "DocumentMoniker": "D:\\Calismalar\\Bitirme Projesi\\Proje\\CRM\\CRM.API\\Controllers\\IssueController.cs",
+              "RelativeDocumentMoniker": "CRM.API\\Controllers\\IssueController.cs",
+              "ToolTip": "D:\\Calismalar\\Bitirme Projesi\\Proje\\CRM\\CRM.API\\Controllers\\IssueController.cs",
+              "RelativeToolTip": "CRM.API\\Controllers\\IssueController.cs",
+              "ViewState": "AgIAAMwAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T20:14:34.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomFieldController.cs",
+              "DocumentMoniker": "D:\\Calismalar\\Bitirme Projesi\\Proje\\CRM\\CRM.API\\Controllers\\CustomFieldController.cs",
+              "RelativeDocumentMoniker": "CRM.API\\Controllers\\CustomFieldController.cs",
+              "ToolTip": "D:\\Calismalar\\Bitirme Projesi\\Proje\\CRM\\CRM.API\\Controllers\\CustomFieldController.cs",
+              "RelativeToolTip": "CRM.API\\Controllers\\CustomFieldController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T20:14:28.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CommentController.cs",
+              "DocumentMoniker": "D:\\Calismalar\\Bitirme Projesi\\Proje\\CRM\\CRM.API\\Controllers\\CommentController.cs",
+              "RelativeDocumentMoniker": "CRM.API\\Controllers\\CommentController.cs",
+              "ToolTip": "D:\\Calismalar\\Bitirme Projesi\\Proje\\CRM\\CRM.API\\Controllers\\CommentController.cs",
+              "RelativeToolTip": "CRM.API\\Controllers\\CommentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T20:09:14.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AttachmentController.cs",
+              "DocumentMoniker": "D:\\Calismalar\\Bitirme Projesi\\Proje\\CRM\\CRM.API\\Controllers\\AttachmentController.cs",
+              "RelativeDocumentMoniker": "CRM.API\\Controllers\\AttachmentController.cs",
+              "ToolTip": "D:\\Calismalar\\Bitirme Projesi\\Proje\\CRM\\CRM.API\\Controllers\\AttachmentController.cs",
+              "RelativeToolTip": "CRM.API\\Controllers\\AttachmentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T19:49:53.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SmtpConfiguration.cs",
+              "DocumentMoniker": "D:\\Calismalar\\Bitirme Projesi\\Proje\\CRM\\CRM.API\\Models\\EfCore\\SmtpConfiguration.cs",
+              "RelativeDocumentMoniker": "CRM.API\\Models\\EfCore\\SmtpConfiguration.cs",
+              "ToolTip": "D:\\Calismalar\\Bitirme Projesi\\Proje\\CRM\\CRM.API\\Models\\EfCore\\SmtpConfiguration.cs",
+              "RelativeToolTip": "CRM.API\\Models\\EfCore\\SmtpConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T16:50:45.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Calismalar\\Bitirme Projesi\\Proje\\CRM\\CRM.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CRM.API\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Calismalar\\Bitirme Projesi\\Proje\\CRM\\CRM.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CRM.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-18T15:43:07.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Calismalar\\Bitirme Projesi\\Proje\\CRM\\CRM.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "CRM.API\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Calismalar\\Bitirme Projesi\\Proje\\CRM\\CRM.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "CRM.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T23:18:48.088Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

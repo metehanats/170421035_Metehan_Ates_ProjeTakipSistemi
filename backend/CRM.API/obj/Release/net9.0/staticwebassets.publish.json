@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "vmm/7Yg1MCYl+v/ABE22PWwj8Dj7wa2hvsb0guPZ2vo=",
+  "Source": "CRM.API",
+  "BasePath": "_content/CRM.API",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
